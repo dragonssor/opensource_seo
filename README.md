@@ -10,6 +10,6 @@
 - Repository
 - Push
 - Pull
-- 
+- Branch
 7. 오픈소스 개발 환경 구축하기
 8. 오픈소스 서비스 환경 구축하기
